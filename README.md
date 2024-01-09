@@ -74,6 +74,9 @@ A curated list of amazingly awesome awesomeness.
 		- [by @vinta](https://github.com/vinta/awesome-python)
 		- [awesome-python-in-education](https://github.com/quobit/awesome-python-in-education)
 	- [R](https://github.com/qinwf/awesome-R)
+	- Racket
+		- [by @avelino](https://github.com/avelino/awesome-racket)
+  		- [by caocao485](https://github.com/caocao485/awesome-racket-and-scheme)
 	- Ruby
 		- [by @dreikanter](https://github.com/dreikanter/ruby-bookmarks)
 		- [by @markets](https://github.com/markets/awesome-ruby)
@@ -82,6 +85,9 @@ A curated list of amazingly awesome awesomeness.
 	- [Rust](https://github.com/rust-unofficial/awesome-rust)
 	- [SAS](https://github.com/huyingjie/awesome-SAS)
 	- [Scala](https://github.com/lauris/awesome-scala)
+	- Scheme
+		- [by @schemedoc](https://github.com/schemedoc/awesome-scheme)
+		- [by caocao485](https://github.com/caocao485/awesome-racket-and-scheme)
 	- [Shell](https://github.com/alebcay/awesome-shell)
 	- Swift
 		- [by @matteocrippa](https://github.com/matteocrippa/awesome-swift)
